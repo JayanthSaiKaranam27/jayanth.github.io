@@ -1,3 +1,18 @@
-title: Karanam Jayanth
-description: Backend Engineer | Blogs | Talks
-markdown: kramdown
+title: "Karanam Sai Jayanth"
+description: "Backend Engineer | Blogs | Talks"
+baseurl: "" # leave empty for GitHub Pages
+url: "https://JayanthSaiKaranam27.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Karanam Sai Jayanth"
+  email: "jayanthjai279@gmail.com"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/JayanthSaiKaranam27"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/karanam-jayanth/"
