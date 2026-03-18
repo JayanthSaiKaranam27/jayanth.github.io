@@ -1,0 +1,12 @@
+---
+layout: post
+title: "My First Blog Post"
+date: 2026-03-18 22:15:00 +0530
+categories: [blog, backend]
+---
+
+Welcome to my new website! 🎉  
+
+This is my first post where I’ll share insights about backend engineering, Spring Boot microservices, and exam strategies.  
+
+Stay tuned for more updates!
