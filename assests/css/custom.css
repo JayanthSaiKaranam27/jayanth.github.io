@@ -1,0 +1,30 @@
+/* Background color */
+body {
+  background-color: #f9fafc;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #2c3e50;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Navigation links */
+.nav a {
+  color: #007acc;
+  font-weight: bold;
+}
+
+/* Buttons for homepage links */
+a.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 8px;
+  background-color: #007acc;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a.button:hover {
+  background-color: #005f99;
+}
