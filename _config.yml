@@ -4,6 +4,7 @@ baseurl: "" # leave empty for GitHub Pages
 url: "https://JayanthSaiKaranam27.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # options: default, dark, contrast, neon, air, mint
 
 plugins:
   - jekyll-include-cache
